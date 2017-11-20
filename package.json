@@ -1,16 +1,11 @@
 {
   "name": "avet-fetch",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "avet fetch",
   "avetPlugin": {
     "name": "fetch"
   },
-  "keywords": [
-    "avet",
-    "avetPlugin",
-    "avet-plugin",
-    "fetch"
-  ],
+  "keywords": ["avet", "avetPlugin", "avet-plugin", "fetch"],
   "scripts": {
     "build": "avet-bin build",
     "prepublish": "avet-bin build"
