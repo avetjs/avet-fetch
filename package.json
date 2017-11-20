@@ -19,24 +19,24 @@
     "isomorphic-fetch": "^2.2.1"
   },
   "devDependencies": {
-    "avet-bin": "^0.5.1",
+    "avet-bin": "^0.7.0",
+    "babel-eslint": "^8.0.2",
+    "eslint": "^4.9.0",
+    "eslint-config-avet": "^0.3.7",
     "react": "^16.0.0",
     "react-dom": "^16.0.0"
   },
-  "author": "okoala <dapixp@gmail.com>",
   "engines": {
-    "node": ">= 8.0.0"
+    "node": ">= 8"
   },
-  "files": [
-    "config",
-    "page",
-    "extend",
-    "dist",
-    "lib",
-    "app.js"
-  ],
-  "ci": {
-    "version": "8"
+  "tnpm": {
+    "mode": "npm"
   },
+  "homepage": "https://github.com/avetjs/avet",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avetjs/avet-fetch.git"
+  },
+  "author": "okoala <dapixp@gmail.com>",
   "license": "MIT"
 }
