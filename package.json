@@ -12,15 +12,15 @@
     "prepublish": "avet-bin build"
   },
   "dependencies": {
-    "isomorphic-fetch": "^2.2.1"
+    "isomorphic-fetch": "2.2.1"
   },
   "devDependencies": {
-    "avet-bin": "^0.7.4",
-    "babel-eslint": "^8.0.2",
-    "eslint": "^4.9.0",
-    "eslint-config-avet": "^0.3.7",
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "avet-bin": "0.7.4",
+    "babel-eslint": "8.1.2",
+    "eslint": "4.14.0",
+    "eslint-config-avet": "0.3.11",
+    "react": "16.2.0",
+    "react-dom": "16.2.0"
   },
   "engines": {
     "node": ">= 8"
